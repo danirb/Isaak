@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">GeoRoute</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre</string>
+    <string name="btn_login">INICIAR SESIÓN</string>
+    <string name="btn_register">REGISTRAR</string>
+    <string name="btn_link_to_register">REGISTRAR USUARIO</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="name">Fullname</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="permisos">Usuarios Autorizados</string>
+    <string name="peticiones">Peticiones Pendientes</string>
+    <string name="gps"> GPS</string>
+    <string name="mapa"> Mapa</string>
+
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="action_search">Buscar</string>
+    <string name="buscar_hint">Buscar usuario</string>
+</resources>
